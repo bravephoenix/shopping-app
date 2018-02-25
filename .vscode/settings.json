@@ -3,5 +3,10 @@
   "editor.formatOnSave": false,
   "editor.formatOnType": true,
   "diffEditor.renderIndicators": true,
-  "editor.minimap.enabled": false
+  "editor.minimap.enabled": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "editor.roundedSelection": false,
+  "editor.smoothScrolling": true,
 }
